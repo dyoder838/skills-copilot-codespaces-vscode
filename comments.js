@@ -1,3 +1,4 @@
+// create web server
 const server = Hapi.server({
     port: 3000,
     host: 'localhost'
